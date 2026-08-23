@@ -1,0 +1,14 @@
+[project]
+name = "tls-fragmentation"
+version = "0.1.0"
+description = "TLS Fragmentation Through a SOCKS5 Proxy Server for DPI Circumvention"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+tls-fragmentation = "tls_fragmentation:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
