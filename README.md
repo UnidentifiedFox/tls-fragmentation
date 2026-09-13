@@ -2,9 +2,8 @@
 
 TLS Fragmentation Through a SOCKS5 Proxy Server for DPI Circumvention
 
-For a detailed explanation of the technique, read the [full article](https://upb-syssec.github.io/blog/2023/record-fragmentation/).
+For a detailed explanation of the technique, read the [full article](https://upb-syssec.github.io/blog/2023/record-fragmentation/) by Niklas Niere.
 
----
 
 ## How It Works
 
